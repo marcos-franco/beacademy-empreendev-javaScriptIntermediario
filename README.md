@@ -14,7 +14,7 @@ e Recrusion.
 - JavaScript Intermediário
 
 ### Status do Projeto:
-50% concluido! Favor aguardar, pois estou trabalhando para concluir. 
+100% concluido! 
 
 ### Autor: Professor Marcelo Vasques Vedroni
 Projeto desenvolvido por [Marcos Franco](https://www.linkedin.com/in/marcosfranco-5b1a8a111/)
